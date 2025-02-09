@@ -40,6 +40,12 @@
 .card-color3 {
   color: #8700ff;
 }
+.marking {
+  margin: 70px 0px 0px 0px;
+  font-size: 36px;
+  color: red;
+  font-weight: bold;
+}
 /* Nav-bar Styles */
 .orange-line {
   display: none;
